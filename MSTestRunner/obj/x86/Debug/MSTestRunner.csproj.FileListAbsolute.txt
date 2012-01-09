@@ -1,0 +1,9 @@
+C:\Users\ssaar\Documents\Visual Studio 2010\Projects\MSTester\RPTestRunner\bin\Debug\RPTestRunner.exe.config
+C:\Users\ssaar\Documents\Visual Studio 2010\Projects\MSTester\RPTestRunner\bin\Debug\RPTestRunner.exe
+C:\Users\ssaar\Documents\Visual Studio 2010\Projects\MSTester\RPTestRunner\bin\Debug\RPTestRunner.pdb
+C:\Users\ssaar\Documents\Visual Studio 2010\Projects\MSTester\RPTestRunner\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ssaar\Documents\Visual Studio 2010\Projects\MSTester\RPTestRunner\obj\x86\Debug\RPTestRunner.exe
+C:\Users\ssaar\Documents\Visual Studio 2010\Projects\MSTester\RPTestRunner\obj\x86\Debug\RPTestRunner.pdb
+C:\Users\ssaar\Documents\Visual Studio 2010\Projects\MSTester\MSTestRunner\bin\Debug\RPTestRunner.exe.config
+C:\Users\ssaar\Documents\Visual Studio 2010\Projects\MSTester\MSTestRunner\obj\x86\Debug\RPTestRunner.exe
+C:\Users\ssaar\Documents\Visual Studio 2010\Projects\MSTester\MSTestRunner\obj\x86\Debug\RPTestRunner.pdb
