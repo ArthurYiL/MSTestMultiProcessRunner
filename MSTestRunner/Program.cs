@@ -27,6 +27,7 @@ namespace MSTestRunner
 
     static void Main(string[] args)
     {
+      //Quick Test Change
       _testDllPaths = new List<string>();
       //logFile = File.CreateText("C:\\LogFile.txt");
       //logFile.AutoFlush = true;
